@@ -1,0 +1,14 @@
+.bg {
+    
+    background-image: url(../images/HRKCUV5THJDRDLMPLSJW5GKSQM.png);
+  
+    height: 100vh;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .navbar-brand
+  {
+    color: rgb(71, 180, 178);
+  }
